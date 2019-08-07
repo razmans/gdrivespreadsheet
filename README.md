@@ -1,5 +1,5 @@
 # gdrivespreadsheet
-Want to read from Google Spreadsheet with NodeJS/ExpressJS? Use this repo, just include your own credential.js, change the spreadsheetID and range.
+Want to read from Google Spreadsheet with NodeJS/ExpressJS and output as JSON? Use this repo, just include your own credential.js, change the spreadsheetID and range.
 
 Resources: https://developers.google.com/sheets/api/quickstart/nodejs
 
